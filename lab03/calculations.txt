@@ -1,0 +1,30 @@
+1:
+Matrix dimensions: m = 28000, n = 28000
+Elapsed time (1 procs): 11.734003 sec.
+8:
+Matrix dimensions: m = 28000, n = 28000
+Elapsed time (8 procs): 1.507696 sec. Speedup: 7.782738
+16:
+Matrix dimensions: m = 28000, n = 28000
+Elapsed time (16 procs): 0.777748 sec. Speedup: 15.087152
+32:
+Matrix dimensions: m = 28000, n = 28000
+Elapsed time (32 procs): 0.426299 sec. Speedup: 27.525288
+---------------------------------------
+1:
+Matrix dimensions: m = 45000, n = 45000
+Elapsed time (1 procs): 30.300879 sec.
+8:
+Matrix dimensions: m = 45000, n = 45000
+Elapsed time (8 procs): 3.883591 sec. Speedup: 7.802283
+16:
+Matrix dimensions: m = 45000, n = 45000
+Elapsed time (16 procs): 1.983929 sec. Speedup: 15.273167
+32:
+Matrix dimensions: m = 45000, n = 45000
+Elapsed time (32 procs): 1.000346 sec. Speedup: 	
+
+4n^2+8n≤154,618,822,656
+
+1 узел: n = 46340
+18 узлов: n = 196567
